@@ -1,0 +1,7 @@
+{
+  "name": "word-list",
+  "version": "1.0.0",
+  "description": "A collection of n-letter word lists in json format",
+  "author": "Jonathan Welton",
+  "license": "ISC"
+}
