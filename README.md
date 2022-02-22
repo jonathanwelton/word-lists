@@ -1,6 +1,6 @@
 # Word Lists
 
-Extracted from the words_dictionary.json provided in this repository: https://github.com/dwyl/english-words/
+Extracted from the words_dictionary.json provided in [dwyl/english-words](https://github.com/dwyl/english-words/)
 
 | Letters | Number of words |
 | ------- | --------------- |
